@@ -1,7 +1,3 @@
-#Here's a human-readable README for your script:
-
----
-
 # PDF to CSV Extractor
 
 This script allows you to extract text from all PDF files in a selected folder and save the extracted text into a CSV file. The CSV will contain information about each PDF file, including the file name, page number, and the text extracted from each page.
